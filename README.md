@@ -23,8 +23,8 @@ Soy una estudiante apasionado de ingeniería de software con un fuerte interés 
 ## 🌐 Conéctate conmigo
 [LinkedIn](https://www.linkedin.com/in/claurozas/)
 
+![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauRozasG&layout=compact)
 
-![Estadísticas de GitHub](https://img.shields.io/github/downloads/ClauRozasG/https%3A%2F%2Fgithub.com%2FClauRozasG/total)
 
 ## 🏆 Certificados
 - [Certificado de Participación en Curso de Ciencia de Datos](enlace-al-certificado)
