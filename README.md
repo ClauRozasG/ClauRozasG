@@ -30,7 +30,9 @@ Soy una estudiante apasionado de ingeniería de software con un fuerte interés 
 
 
 ## 🏆 Certificados
-- [Certificado de Participación en Curso de Ciencia de Datos](enlace-al-certificado)
+- [Programa Oracle Next Education](https://app.aluracursos.com/program/certificate/f1bce0e4-a810-4e54-a012-fd71d0273f92)
+- [Python]
+- [Machine Learning]
 
 
 
