@@ -16,16 +16,15 @@ Soy una estudiante apasionado de ingeniería de software con un fuerte interés 
 - GitHub (Intermedio)
 - Microsoft Project (Básico)
 
+- | ![Estadísticas de GitHub](https://img.shields.io/github/followers/ClauRozasG?label=S%C3%ADgueme&style=social) | ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauRozasG&layout=compact) | ![Estadísticas de Actividad](https://github-readme-stats.vercel.app/api/?username=ClauRozasG&show_icons=true&count_private=true&hide=contribs) |
+| --- | --- | --- |
+
 ## 📚 Actualmente Aprendiendo
 - Cursando asignaturas relacionadas con Data Science y Machine Learning.
 - Participando en cursos en línea sobre Python y Data Analytics.
 
 ## 🌐 Conéctate conmigo
 [LinkedIn](https://www.linkedin.com/in/claurozas/)
-
-![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauRozasG&layout=compact)
-
-![Estadísticas de Actividad](https://github-readme-stats.vercel.app/api/?username=ClauRozasG&show_icons=true&count_private=true&hide=contribs)
 
 
 ## 🏆 Certificados
