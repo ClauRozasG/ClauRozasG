@@ -25,6 +25,8 @@ Soy una estudiante apasionado de ingeniería de software con un fuerte interés 
 
 ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauRozasG&layout=compact)
 
+![Estadísticas de Actividad](https://github-readme-stats.vercel.app/api/?username=ClauRozasG&show_icons=true&count_private=true&hide=contribs)
+
 
 ## 🏆 Certificados
 - [Certificado de Participación en Curso de Ciencia de Datos](enlace-al-certificado)
