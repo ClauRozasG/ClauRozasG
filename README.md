@@ -16,7 +16,10 @@ Soy una estudiante de ingeniería de software con un fuerte interés en el mundo
 - GitHub (Intermedio)
 - Microsoft Project (Básico)
 
-| ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauRozasG&layout=compact&height=150) | ![Estadísticas de Actividad](https://github-readme-stats.vercel.app/api/?username=ClauRozasG&show_icons=true&count_private=true&hide=contribs&height=150) | ![Trophies](https://github-profile-trophy.vercel.app/?username=ClauRozasG) |
+|Estadísticas|
+|----------|
+| ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauRozasG&layout=compact&height=150) |
+|![Trophies](https://github-profile-trophy.vercel.app/?username=ClauRozasG) |
 
 
 
