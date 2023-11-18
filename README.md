@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Claudia Rozas, Estudiante de Ingeniería de Software con Interés en Data Analytics
 
 ## 👨‍💻 Acerca de mí
-Soy una estudiante de ingeniería de software con un fuerte interés en el mundo de Data Analytics. Mi enfoque actual es aprender y aplicar técnicas de ciencia de datos para comprender y analizar datos de manera efectiva.
+¡Hola! 👋 Soy una futura Ingeniera de Software con un apasionado interés por aprender diversos lenguajes de programación, con el objetivo de estar preparada y ser capaz de desempeñar un trabajo excelente. Mi habilidad para asimilar y adquirir nuevos conocimientos con facilidad y rapidez me impulsa a mantenerme al día en las últimas tecnologías y enfoques de desarrollo. Actualmente, me encuentro en el 8vo ciclo de mi carrera, y mi fascinación por la rama de data me motiva a explorar y profundizar en el mundo de la ciencia de datos. ¡Lista para los desafíos y el crecimiento continuo en el fascinante campo de los datos! 🚀✨
 
 ## 🚀 Proyectos de Estudio
 - [Análisis Exploratorio de Cryptomonedas con Python](https://github.com/ClauRozasG/Data-Visualization-Crypto.git): Aplicación de Pandas, Matplotlib y seaborn para explorar y visualizar conjuntos de datos.
