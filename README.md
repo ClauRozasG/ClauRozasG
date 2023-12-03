@@ -14,6 +14,7 @@
 - Bases de Datos: SQL (Intermedio/Avanzado)
 - Power Apps y Power Automate (Intermedio)
 - GitHub (Intermedio)
+- Gestión de projectos: SCRUM
 - Microsoft Project (Básico)
 
 |Estadísticas|
