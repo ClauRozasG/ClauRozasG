@@ -6,7 +6,7 @@
 ## 🚀 Proyectos de Estudio
 - [Análisis Exploratorio de Cryptomonedas con Python](https://github.com/ClauRozasG/Data-Visualization-Crypto.git): Aplicación de Pandas, Matplotlib y seaborn para explorar y visualizar conjuntos de datos.
 - [Proyecto de Machine Learning: Análisis de datos OMS](https://github.com/ClauRozasG/Analisis-OMS.git): Desarrollo de un modelo predictivo y se compara con los resultados reales.
-
+- [Proyecto de Machine Learning: Análisis de crédito en tarjetas de crédito](): Aún en progreso. Se hará un análisis explotario, comparaciones de modelos y se verá cuál tiene el mejor resultado para la mejor predicción.
 ## 🛠️ Habilidades en Desarrollo
 - Lenguajes: Python, Java, C++
 - Herramientas de Desarrollo: VS Code, Jupyter Notebooks
