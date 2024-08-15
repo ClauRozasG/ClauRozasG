@@ -1,21 +1,20 @@
-# ¡Hola! 👋 Soy Claudia Rozas, Estudiante de Ingeniería de Software con Interés en Data Analytics
-
+# ¡Hola! 👋 Soy Claudia Rozas, Estudiante de Ingeniería de Software
 ## 👨‍💻 Acerca de mí
-¡Hola! 👋 Soy una futura Ingeniera de Software con un apasionado interés por aprender diversos lenguajes de programación, con el objetivo de estar preparada y ser capaz de desempeñar un trabajo excelente. Mi habilidad para asimilar y adquirir nuevos conocimientos con facilidad y rapidez me impulsa a mantenerme al día en las últimas tecnologías y enfoques de desarrollo. Actualmente, me encuentro en el 8vo ciclo de mi carrera, y mi fascinación por la rama de data me motiva a explorar y profundizar en el mundo de la ciencia de datos. ¡Lista para los desafíos y el crecimiento continuo en el fascinante campo de los datos! 🚀✨
+¡Hola! 👋 Soy una futura Ingeniera de Software con un apasionado interés por aprender diversos lenguajes de programación, con el objetivo de estar preparada y ser capaz de desempeñar un trabajo excelente. Mi habilidad para asimilar y adquirir nuevos conocimientos con facilidad y rapidez me impulsa a mantenerme al día en las últimas tecnologías y enfoques de desarrollo. Actualmente, me encuentro en el 9no ciclo de mi carrera, y mi fascinación por la rama de data me motiva a explorar y profundizar en el mundo de la ciencia de datos. ¡Lista para los desafíos y el crecimiento continuo en el fascinante campo de los datos! 🚀✨
 
 ## 🚀 Proyectos de Estudio
 - [Análisis Exploratorio de Cryptomonedas con Python](https://github.com/ClauRozasG/Data-Visualization-Crypto.git): Aplicación de Pandas, Matplotlib y seaborn para explorar y visualizar conjuntos de datos.
 - [Proyecto de Machine Learning: Análisis de datos OMS](https://github.com/ClauRozasG/Analisis-OMS.git): Desarrollo de un modelo predictivo y se compara con los resultados reales.
 - [Proyecto de Machine Learning: Análisis de crédito en tarjetas de crédito](): Aún en progreso. Se hará un análisis explotario, comparaciones de modelos y se verá cuál tiene el mejor resultado para la mejor predicción.
 ## 🛠️ Habilidades en Desarrollo
-- Lenguajes: Python, Java, C++
+- Lenguajes: Python, Java, C++, Javascript, HTML, CSS
 - Herramientas de Desarrollo: VS Code, Jupyter Notebooks
-- Análisis de Datos: Pandas, Matplotlib, Excel (Intermedio/Avanzado), Power BI (Intermedio)
-- Bases de Datos: SQL (Intermedio/Avanzado)
+- Análisis de Datos: Pandas, Matplotlib, Excel (Avanzado), Power BI (Intermedio)
+- Bases de Datos: SQL (Avanzado)
 - Power Apps y Power Automate (Intermedio)
 - GitHub (Intermedio)
-- Gestión de projectos: SCRUM
-- Microsoft Project (Básico)
+- Gestión de projectos: SCRUM, Kanban
+- Microsoft Project (Intermedio)
 
 |Estadísticas|
 |----------|
@@ -26,8 +25,8 @@
 
 
 ## 📚 Actualmente Aprendiendo
-- Cursando asignaturas relacionadas con Data Science y Machine Learning.
-- Participando en cursos en línea sobre Python y Data Analytics.
+- Cursando asignaturas relacionadas con Data Science, Machine Learning y BackEnd.
+- Participando en cursos en línea sobre Docker, AWS, Azure, DevOps.
 
 ## 🌐 Conéctate conmigo
 [LinkedIn](https://www.linkedin.com/in/claurozas/)
